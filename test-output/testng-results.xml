@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3320" started-at="2018-08-29T16:28:15Z" finished-at="2018-08-29T16:28:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3320" started-at="2018-08-29T16:28:15Z" finished-at="2018-08-29T16:28:19Z">
+      <class name="com.oyi.Verify_json">
+        <test-method status="PASS" signature="ResponseHeader()[pri:0, instance:com.oyi.Verify_json@457e2f02]" name="ResponseHeader" duration-ms="3292" started-at="2018-08-29T16:28:15Z" finished-at="2018-08-29T16:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResponseHeader -->
+      </class> <!-- com.oyi.Verify_json -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
